@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Travel Pal</string>
+    <string name="welcome_to_the_travel_pal">Welcome to the Travel Pal!</string>
+    <string name="get_started">Get Started</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="enter_your_journal_entry">Enter your journal entry</string>
+    <string name="save_entry">Save Entry</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_journal_list">Journal List</string>
+    <string name="title_activity_add_entry">Add Entry</string>
+</resources>
